@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/class/Class01.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_structure/list/List01.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pointer/Pointer01.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pointer/dynamic.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pointer/dynamic.h" charset="GBK" />
+  </component>
+</project>
